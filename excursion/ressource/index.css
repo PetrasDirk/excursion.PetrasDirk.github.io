@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.twin {
+    color: white;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+.first {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.two {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.tree {
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+    margin-top: 20px;
+}
+
+.four {
+  color: white;  
+  text-align: right;
+
+}
